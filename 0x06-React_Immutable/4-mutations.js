@@ -1,4 +1,3 @@
-
 import { Map } from 'immutable';
 
 export const map = Map({
